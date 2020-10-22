@@ -1,6 +1,6 @@
 import React from 'react';
 import ErrorIndicator from '../error-indicator';
-
+ 
 class ErrorBoudry extends React.Component{
 
     state ={
