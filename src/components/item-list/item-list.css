@@ -1,0 +1,14 @@
+.item-list li{
+    cursor: pointer;
+    
+}
+
+.item-list li:hover{
+    color:red;
+    font-size: xx-large;
+    background-color: gainsboro
+}
+
+.list-group{
+    margin-top: 20px;
+}
